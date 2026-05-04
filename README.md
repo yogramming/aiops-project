@@ -130,6 +130,6 @@ This project demonstrates how DevOps practices can be enhanced using AI techniqu
 ## 👨‍💻 Author
 
 **Yogesh Dubey**
-Aspiring DevOps Engineer | Linux & Cloud Enthusiast
+DevOps Engineer | Linux & Cloud Enthusiast
 
 ---
