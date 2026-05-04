@@ -19,7 +19,7 @@ df = pd.DataFrame(log_entries, columns=["timestamp", "level", "message"])
 df["timestamp"] = pd.to_datetime(df["timestamp"])
 
 # Count errors in the last 30 seconds
-error_counts = Counter(df[df["level"] == "ERROR"]["timestamp"].dt.floor("30S"))
+error_counts = Counter(df[df["level"] == "ERROR"]["timestamp"].dt.floor("30s"))
 
 # Threshold for detecting an anomaly (too many errors in a short time)
 threshold = 3
