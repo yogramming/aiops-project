@@ -1,10 +1,10 @@
-# 🚀 AIOps Log Analysis System
+# AIOps Log Analysis System
 
 A Python-based **AIOps (Artificial Intelligence for IT Operations)** project that analyzes system logs, detects anomalies, and provides insights into system behavior using data processing and machine learning techniques.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This project processes structured log data to:
 
@@ -17,7 +17,7 @@ It simulates real-world DevOps and SRE workflows where logs are analyzed to iden
 
 ---
 
-## ⚙️ Features
+## Features
 
 - 📊 **Log Parsing & Processing**
   - Reads structured log data using Pandas
@@ -63,7 +63,7 @@ aiops-project/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
